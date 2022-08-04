@@ -1,4 +1,6 @@
-## Hello My Name is Shiv, I build Next Generation high performnce GPUs
+## Hello! My name is Shiv and I enjoy building nex genration compute intense CHIPS. I have been working on VLSI domain from last 7 years.
+
+
 
 You can use the [editor on GitHub](https://github.com/shiv1991/shiv1991.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
